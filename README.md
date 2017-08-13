@@ -3,11 +3,17 @@
 <h6>Folder_Organiser</h6>
 <p>This script organises a messy folders and all their files. 
  <br>It sorts all files according to file type and move them to following folders respectively :
-<ul>
-<li><b>Images              Audios</b></li>
-<li><b>Documents           Videos</b></li>
-<li><b>Zip_Files           Others</b></li>
-</ul>
+<table>
+ <tr>
+<td><b>Images</b></td>
+  <td><b>Documents</b></td>
+  <td><b>Audios</b></td>
+  <td><b>Videos</b></td>
+  <td><b>Zip_Files</b></td>
+  <td><b>Others</b></td>
+  </tr>
+ </table>
+  
 </p>
 <table>
   <tr><td>Folders Before running Script</td>
