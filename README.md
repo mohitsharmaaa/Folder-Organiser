@@ -17,7 +17,7 @@
 </p>
 <table>
   <tr><td>Folders Before running Script</td>
-    <td>After Script It sort according to file type</td>
+    <td>Folders After running Script</td>
 <tr>
 <td><img src="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c4/584415/b5fc006923f52171f40dfb2a40c48915-original.JPG" ></td>
 <td><img src="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c4/584415/83974ad5fda7c7705fab15e085f9ece6-original.JPG"></td>
