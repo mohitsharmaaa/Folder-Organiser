@@ -53,8 +53,7 @@ def duplicate_name_handle(old_path,file_name,folder_name):
                 except:
                     c+=1 
     except:
-        os.mkdir(final_path+"/"+folder_name)
-        os.rename(old_path,final_path+"/"+folder_name+"/"+file_name)
+        print(file_name)
                         
 #Uses File Extension to categorize files
 def move_file(old_path,file_name):
