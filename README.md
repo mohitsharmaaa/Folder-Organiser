@@ -1,6 +1,6 @@
 <h1>PySuper Scripts</h1>
 
-<h6>Folder_Organiser</h6>
+<h6><b>Folder_Organiser</b></h6>
 <p>This script organises a messy folders and all their files. 
  <br>It sorts all files according to file type and move them to following folders respectively :
 <table>
