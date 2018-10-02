@@ -37,7 +37,7 @@ For every element X on the sequence the program does this:
  <li>Prints X</li>
  </ul>
   The clock starts simultaneously for all elements.
- <a href='https://twitter.com/fermatslibrary/status/1027175598106533888'>Based on Fermet's Library Tweet</a>
+ <a href='https://twitter.com/fermatslibrary/status/1027175598106533888'>Based on Fermat's Library Tweet</a>
  </p>
 
 
