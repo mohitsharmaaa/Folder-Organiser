@@ -27,4 +27,19 @@
 <li>User can Ask a Question</li>
 </ul>-->
 
+<!-- TIME BASED SORTING -->
+<HR>
+<h6><b>Time Based Sorting</b></h6>
+<p>
+Here's a vey peculiar Sorting Algorithm.
+For every element X on the sequence the program does this:
+<ul><li>Sleeps for X seconds</li> 
+ <li>Prints X</li>
+ </ul>
+  The clock starts simultaneously for all elements.
+ <a href='https://twitter.com/fermatslibrary/status/1027175598106533888'>Based on Fermet's Library Tweet</a>
+ </p>
+
+
+
 <a class="LI-simple-link" href='https://in.linkedin.com/in/19mohitsharma95?trk=profile-badge'>MOHIT SHARMA</a>
